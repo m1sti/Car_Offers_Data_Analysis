@@ -433,7 +433,7 @@ limit 5;
 
 - Adjusted the data type to the appropriate one for the values in question 
 
-- Adjusted the values to the analytical demand (e.g., converting the engine_displacement column with values like "1,900 cm3" to the engine_displacement_cm3 column with values like "1,900"
+- Adjusted the values to the analytical demand (e.g., converting the engine_displacement column with values like "*1900 cm3*" to the engine_displacement_cm3 column with values like "*1900*"
 
 - Separating from the "generation" column the text value from the year of the beginning and end of a given car generation
 
