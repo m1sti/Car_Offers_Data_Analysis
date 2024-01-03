@@ -51,8 +51,7 @@ limit 5;
 ``` 
 
 ``` sql  
-select 	column_name
-		,data_type
+select 	column_name, data_type
 from information_schema.columns
 where table_name = 'Offers_all';
 ``` 
