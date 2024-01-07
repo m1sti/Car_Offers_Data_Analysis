@@ -5,33 +5,33 @@
 ## Table of contents
 
 1. [**Introduction**](#introduction)
-2. **Dealer Type**
-3. **Car Condition**
-    - Accident-free cars
-    - Damaged cars
-4. **Body Type**
-    - Body type per year
-5. **Fuel / Engine Type**
-    - Fuel type per year
-6. **Automatic / Manual Transmission**
-    - Transmission type per year
-7. **Fuel Consumption in the City**
-8. **Electric Energy Consumption in the City**
-9. **Car Colors**
-    - Car segment vs. percentage of colorful vehicles
-10. **Country of Origin of Used Cars**
-11. **Most Popular Car Brands**
-    - Most popular car models
-    - Most popular cars by voivodeship
-12. **Offers Count by Year of Production**
-13. **Mileage Analysis**
-    - Median mileage by production year 
-14. **Price Analysis**
-    - Average used car price per year
-    - Price ranges for the 20 most popular vehicle brands
-15. **Case: Clean Transport Zone in Krakow**
-    - Price analysis of cars eligible to enter the Clean Transportation Zone
-16. **Summary**
+2. [**Dealer Type**](#dealer-type)
+3. [**Car Condition**](#car-condition)
+    - [Accident-free cars](#accident-free-cars)
+    - [Damaged cars](#damaged-cars)
+4. [**Body Type**](#body-type)
+    - [Body type per year](#body-type-per-year)
+5. [**Fuel / Engine Type**](#fuel--engine-type)
+    - [Fuel type per year](#fuel-type-per-year)
+6. [**Automatic / Manual Transmission**](#automatic--manual-transmission)
+    - [Transmission type per year](#transmission-type-per-year)
+7. [**Fuel Consumption in the City**](#fuel-consumption-in-the-city)
+8. [**Electric Energy Consumption in the City**](#electric-energy-consumption-in-the-city)
+9. [**Car Colors**](#car-colors)
+    - [Car segment vs. percentage of colorful vehicles](#car-segment-vs-percentage-of-colorful-vehicles)
+10. [**Country of Origin of Used Cars**](#country-of-origin-of-used-cars)
+11. [**Most Popular Car Brands**](#most-popular-car-brands)
+    - [Most popular car models](#most-popular-car-models)
+    - [Most popular cars by voivodeship](#most-popular-cars-by-voievodeship)
+12. [**Offers Count by Year of Production**](#offers-count-by-year-of-production)
+13. [**Mileage Analysis**](#mileage-analysis)
+    - [Median mileage by production year](#median-mileage-by-production-year)
+14. [**Price Analysis**](#price-analysis)
+    - [Average used car price per year](#average-used-car-price-per-year)
+    - [Price ranges for the 20 most popular vehicle brands](#price-ranges-for-the-20-most-popular-vehicle-brands)
+15. [**Case: Clean Transport Zone in Krakow**](#case-clean-transport-zone-in-krakow)
+    - [Price analysis of cars eligible to enter the Clean Transportation Zone](#price-analysis-of-cars-eligible-to-enter-the-clean-transportation-zone)
+16. [**Summary**](#summary)
 
 ## Introduction
 
