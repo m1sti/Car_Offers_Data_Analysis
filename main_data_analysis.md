@@ -4,7 +4,7 @@
 
 ## Table of contents
 
-1. **Introduction**
+1. [**Introduction**](#introduction)
 2. **Dealer Type**
 3. **Car Condition**
     - Accident-free cars
