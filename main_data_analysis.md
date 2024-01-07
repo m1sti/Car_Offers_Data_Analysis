@@ -1,6 +1,6 @@
 ﻿# Data analysis: a cross-sectional overview of the car sales market in Poland based on offers from the Otomoto portal
 
-![enter image description here](https://cdn.pixabay.com/photo/2018/01/23/04/33/autohandel-3100637_1280.jpg)
+![Two hands shake, car behind](https://github.com/m1sti/Car_Offers_Data_Analysis/blob/main/plots/main_graphic.jpg?raw%253Dtrue)
 
 ## Table of contents
 
