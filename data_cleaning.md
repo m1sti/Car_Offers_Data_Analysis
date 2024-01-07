@@ -2,11 +2,11 @@
 
 ## Table of contents
 
- 1. [#### Introduction and preparation of the environment](#introduction-and-preparation-of-the-environment)
- 2. [#### Basic table information and exclusion of most columns](#basic-table-information-and-exclusion-of-most-columns)
- 3. [#### Data preparation & Data Cleaning](#data-preparation--data-cleaning)
+ 1. [**Introduction and preparation of the environment**](#introduction-and-preparation-of-the-environment)
+ 2. [**Basic table information and exclusion of most columns**](#basic-table-information-and-exclusion-of-most-columns)
+ 3. [**Data preparation & Data Cleaning**](#data-preparation--data-cleaning)
 	- [Problem List with Explanation and Reference to Solution](#problem-list-with-explanation-and-reference-to-solution)
- 4. [#### Summary](#summary)
+ 4. [**Summary**](#summary)
 
 ## Introduction and preparation of the environment
 
