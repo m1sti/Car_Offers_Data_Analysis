@@ -11,9 +11,9 @@ This project involves the analysis of car sales data sourced from the Otomoto po
 
 ## Technologies Used
 1. **Database Management:** pgAdmin4
-2. **Data Analysis:** postgreSQL queries
-3. **Data Visualization:** Tableau
-4. **Data Cleaning and Preparation:** 90% SQL 10% Excel
+2. **Data Cleaning and Preparation:** 90% SQL 10% Excel
+3. **Data Analysis:** postgreSQL queries
+4. **Data Visualization:** Tableau
 
 ## Workflow
 1. **Data Acquisition:**
