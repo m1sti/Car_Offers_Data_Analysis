@@ -778,6 +778,7 @@ ed by 3 or 4 with the exception of the Mercedes brand.
 Because of the plethora of data, visually the charts look as if there are a lot of outliers, but this is mainly due to the amount of data for each brand.
 
 **Mercedes prices**
+
 <img src="https://github.com/m1sti/Car_Offers_Data_Analysis/blob/main/whisker_plots/mercedes_whisker.png?raw=true" alt="mercedes_whisker_boxplot" width="400"/>
 
 Of the 20 most popular car brands on Otomoto, Mercedes are among the most expensive. The median price is 103 000 PLN, and 50% of the values are between  38 000 PLN and  220 000 PLN. Mercedes is also the only brand for which many outliers exceed one million zlotys, there are more than 180 of them. 
