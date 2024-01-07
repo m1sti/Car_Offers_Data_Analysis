@@ -858,7 +858,6 @@ Now let's check how this looks broken down by vehicle price - how much should be
 
 ### Price analysis of cars eligible to enter the Clean Transportation Zone
 ```sql
-
 with clean_transport_zone as (
     select
         id,
