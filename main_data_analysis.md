@@ -1,6 +1,6 @@
 ﻿# Data analysis: a cross-sectional overview of the car sales market in Poland based on offers from the Otomoto portal
 
-<img src="https://github.com/m1sti/Car_Offers_Data_Analysis/blob/main/plots/main_graphic.jpg?raw%253Dtrue" alt="Two hands shake, car behind" width="300"/>
+![Two hands shake, car behind](https://github.com/m1sti/Car_Offers_Data_Analysis/blob/main/plots/main_graphic.jpg?raw%253Dtrue)
 
 ## Table of contents
 
@@ -32,7 +32,6 @@
 15. **Case: Clean Transport Zone in Krakow**
     - Price analysis of cars eligible to enter the Clean Transportation Zone
 16. **Summary**
-
 
 ## Introduction
 
@@ -107,8 +106,6 @@ order by count(*) desc;
 ```
 ![car_condition_plot](https://github.com/m1sti/Car_Offers_Data_Analysis/blob/main/plots/car_condition.png?raw=true)
 
-
-
 Most listings on Otomoto are for used cars. Only one in 10 listings is a new car. 
 
 ### Accident-free cars
@@ -122,8 +119,7 @@ where state = 'Used'
 group by no_accident
 order by count(*) desc;
 ```
-
-![no_accident_plot](https://github.com/m1sti/Car_Offers_Data_Analysis/blob/main/plots/no_accident.png?raw=true)
+<img src="https://github.com/m1sti/Car_Offers_Data_Analysis/blob/main/plots/no_accident.png?raw=true" alt="no_accident_plot" width="400"/>
 
 After filtering out new vehicles, there is a slight lead in listings with accident-free cars. However, the difference is small enough that, with some approximation, about half of used cars are accident-free.
 
@@ -138,7 +134,7 @@ where state = 'Used' and no_accident is false
 group by damaged
 order by count(*) desc;
 ```
-![damaged_cars_plot](https://github.com/m1sti/Car_Offers_Data_Analysis/blob/main/plots/damaged.png?raw=true)
+<img src="https://github.com/m1sti/Car_Offers_Data_Analysis/blob/main/plots/damaged.png?raw=true" alt="damaged_cars_plot" width="400"/>
 
 Approximately one in eight cars involved in an accident is listed on Otomoto as a car still inoperable and in need of repair.
 
@@ -232,7 +228,7 @@ where transmission is not null
 group by transmission
 order by count(*) desc;
 ```
-![transmission_plot](https://github.com/m1sti/Car_Offers_Data_Analysis/blob/main/plots/transmision.png?raw=true)
+<img src="https://github.com/m1sti/Car_Offers_Data_Analysis/blob/main/plots/transmision.png?raw=true" alt="transmission_plot" width="400"/>
 
 Surprisingly, there is little disparity between cars with manual and automatic transmissions. Intuitively, in Poland, cars with manual transmissions have "always" dominated over those with automatic transmissions. This may be due to the fact that most listings on Otomoto are rather newer cars, and among them automatic transmissions are already a more common sight. 
 
@@ -782,7 +778,7 @@ ed by 3 or 4 with the exception of the Mercedes brand.
 Because of the plethora of data, visually the charts look as if there are a lot of outliers, but this is mainly due to the amount of data for each brand.
 
 **Mercedes prices**
-![mercedes_whisker_boxplot](https://github.com/m1sti/Car_Offers_Data_Analysis/blob/main/whisker_plots/mercedes_whisker.png?raw=true)
+<img src="https://github.com/m1sti/Car_Offers_Data_Analysis/blob/main/whisker_plots/mercedes_whisker.png?raw=true" alt="mercedes_whisker_boxplot" width="400"/>
 
 Of the 20 most popular car brands on Otomoto, Mercedes are among the most expensive. The median price is 103 000 PLN, and 50% of the values are between  38 000 PLN and  220 000 PLN. Mercedes is also the only brand for which many outliers exceed one million zlotys, there are more than 180 of them. 
 
