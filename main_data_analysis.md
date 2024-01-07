@@ -85,8 +85,7 @@ from public.offers
 group by seller_type
 order by count(*) desc;
 ```
-
-![dealer_type_plot](https://github.com/m1sti/Car_Offers_Data_Analysis/blob/main/plots/seller_type.png?raw=true)
+<img src="https://github.com/m1sti/Car_Offers_Data_Analysis/blob/main/plots/seller_type.png?raw=true" alt="dealer_type_plot" width="400"/>
 
 **Conclusions:** 
 
@@ -107,6 +106,8 @@ group by state
 order by count(*) desc;
 ```
 ![car_condition_plot](https://github.com/m1sti/Car_Offers_Data_Analysis/blob/main/plots/car_condition.png?raw=true)
+
+
 
 Most listings on Otomoto are for used cars. Only one in 10 listings is a new car. 
 
