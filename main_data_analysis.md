@@ -228,7 +228,7 @@ where transmission is not null
 group by transmission
 order by count(*) desc;
 ```
-<img src="https://github.com/m1sti/Car_Offers_Data_Analysis/blob/main/plots/transmision.png?raw=true" alt="transmission_plot" width="400"/>
+<img src="https://github.com/m1sti/Car_Offers_Data_Analysis/blob/main/plots/transmision.png?raw=true" alt="transmission_plot" width="350"/>
 
 Surprisingly, there is little disparity between cars with manual and automatic transmissions. Intuitively, in Poland, cars with manual transmissions have "always" dominated over those with automatic transmissions. This may be due to the fact that most listings on Otomoto are rather newer cars, and among them automatic transmissions are already a more common sight. 
 
