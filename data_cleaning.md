@@ -2,11 +2,11 @@
 
 ## Table of contents
 
- #### 1. Introduction and preparation of the environment
- #### 2. Basic table information and exclusion of most columns
- #### 3. Data preparation & Data Cleaning
- 3.1. Problem List with Explanation and Reference to Solution
- #### 4. Summary
+ 1. [#### Introduction and preparation of the environment](#introduction-and-preparation-of-the-environment)
+ 2. [#### Basic table information and exclusion of most columns](#basic-table-information-and-exclusion-of-most-columns)
+ 3. [#### Data preparation & Data Cleaning](#data-preparation--data-cleaning)
+	- [Problem List with Explanation and Reference to Solution](#problem-list-with-explanation-and-reference-to-solution)
+ 4. [#### Summary](#summary)
 
 ## Introduction and preparation of the environment
 
@@ -438,4 +438,4 @@ limit 5;
 
 - By including an external table with a list of counties and provinces, the ability to extract from the column "location" data about the county and province was obtained
 
-### Continue to Summary Data Analysis [here](link).
+### Continue to Summary Data Analysis [here]([link](https://github.com/m1sti/Car_Offers_Data_Analysis/blob/main/main_data_analysis.md)).
