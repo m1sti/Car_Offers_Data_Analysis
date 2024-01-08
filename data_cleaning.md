@@ -438,4 +438,4 @@ limit 5;
 
 - By including an external table with a list of counties and provinces, the ability to extract from the column "location" data about the county and province was obtained
 
-### Continue to Summary Data Analysis [here]([link](https://github.com/m1sti/Car_Offers_Data_Analysis/blob/main/main_data_analysis.md)).
+### Continue to Summary Data Analysis [here](https://github.com/m1sti/Car_Offers_Data_Analysis/blob/main/main_data_analysis.md).
